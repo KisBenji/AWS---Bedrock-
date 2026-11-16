@@ -35,6 +35,6 @@ Válasz: A felépített prompt esetén a modell tört magyarral válaszolt. Neh�
 
 Angol nyelvre váltás hatása:
 
-A modell azonnal tökéletes nyelvtani pontossággal adott választ és lehetet teljesen érthető. Amikor arra kértem viselkedjen úgy mint egy borász és egy ügyvezető és a legfontosabb pontokat sorolja fel az applikációhoz, határozott választ adott és ötletet, amik felhasználhatóak lennének és valóban megkönnyítenék a mindennap adminisztrációt. 
+A modell azonnal tökéletes nyelvtani pontossággal adott választ és teljesen érthető lett. Amikor arra kértem viselkedjen úgy, mint egy borász és egy ügyvezető és a legfontosabb pontokat sorolja fel az applikációhoz. Határozott választ adott és ötletet, amik felhasználhatóak lennének és valóban megkönnyítenék a mindennap adminisztrációt. 
 
 
