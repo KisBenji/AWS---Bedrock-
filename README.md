@@ -5,4 +5,4 @@ Teljes körűen menedzselt AWS-szolgáltatás, amelyen keresztül különböző 
 > [!TIP]
 > 💡 
 >
-> [Read the announcement](https://aws.amazon.com/bedrock/)
+> [Read the AWS documentation](https://docs.aws.amazon.com/bedrock/)
