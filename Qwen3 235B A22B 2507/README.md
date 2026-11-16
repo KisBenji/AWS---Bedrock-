@@ -1,1 +1,1 @@
-
+Nagy teljesítményű, Mixture-of-Experts (MoE) nyelvi modell, amely 235 milliárd paraméterrel rendelkezik, de tokenenként csak 22 milliárdot aktivál. Kiemelkedő összetett következtetésben, kódolásban, matematikai feladatokban, szövegértésben és többnyelvű kommunikációban.
