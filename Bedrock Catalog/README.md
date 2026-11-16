@@ -20,7 +20,7 @@ Alább a katalógusból pár modell, rövid leírással és a leggyakoribb felha
 
 | Modell | Vendor | Felhasználási terület |
 |---|---|---|---|
-| Claude Sonnet 5.5 | Anthropic	| Erős, költséghatékony AI-modell mindennapi programozáshoz, hibakereséshez, kódellenőrzéshez, AI-agent feladatokhoz, vállalati dokumentumok és prezentációk készítéséhez, pénzügyi elemzéshez, valamint UI- és designtervezéshez.
+|1| Claude Sonnet 5.5 | Anthropic	| Erős, költséghatékony AI-modell mindennapi programozáshoz, hibakereséshez, kódellenőrzéshez, AI-agent feladatokhoz, vállalati dokumentumok és prezentációk készítéséhez, pénzügyi elemzéshez, valamint UI- és designtervezéshez.
 | Claude Haiku 5.5 |	Anthropic |	Gyors és költséghatékony AI-modell nagy volumenű szövegfeldolgozáshoz, valós idejű chatbotokhoz, egyszerű programozáshoz, párhuzamos AI-agentekhez és böngésző- vagy asztali automatizáláshoz.
 | Claude Opus 5.5 | Anthropic	| Prémium AI-modell komplex programozáshoz, autonóm AI-agentekhez, vállalati folyamatok automatizálásához, pénzügyi elemzéshez, vizuális dokumentumfeldolgozáshoz és több alkalmazáson átívelő számítógépes feladatokhoz.
 | Amazon Nova 2.5 Sonic | Amazon	| Valós idejű, természetes hangalapú AI-kommunikációhoz készült modell, amely beszédalapú chatbotokat, voice agenteket és telefonos ügyfélszolgálati rendszereket támogat. Képes a beszéd megértésére és generálására, a megszakítások kezelésére, többnyelvű kommunikációra és külső eszközök párhuzamos használatára.
