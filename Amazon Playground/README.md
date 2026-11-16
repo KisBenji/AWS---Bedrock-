@@ -1,6 +1,8 @@
 # Amazon Playground
 
-Nova 2.5 Sonic 
+Interaktív fejlesztői felület, ahol különböző AI-modellek tesztelhetők, promptok próbálhatók ki, valamint a modellek válaszai és beállításai összehasonlíthatók kódolás nélkül.
+
+# Nova 2.5 Sonic 
 
 Leírás: Valós idejű, hangalapú AI-modell, amely természetes, kétirányú beszélgetéseket tesz lehetővé. Támogatja a többnyelvű kommunikációt, a hangalapú utasítások értelmezését, a megszakítások kezelését és a külső eszközök használatát. Ideális hangvezérelt chatbotokhoz, AI-asszisztensekhez és telefonos ügyfélszolgálati rendszerekhez.
 
@@ -27,6 +29,10 @@ A végén térj ki három kérdésre:
 
 Legyél gyakorlatias, innovatív és üzletileg reális. Ne általános AI-ötleteket sorolj, hanem egy valóban megvalósítható borászati alkalmazást tervezz.
 
-Angol válasz adás: 
+Válasz: A felépített prompt esetén a modell tört magyarral válaszolt. Nehéz volt a megértése és a válasz is inkább tűnt találgatásnak, mint pontos pontokba szedett ajánlásnak.
+
+Angol nyelvre váltás hatása:
+
+A modell azonnal tökéletes nyelvtani pontossággal adott választ és lehetet teljesen érthető. Amikor arra kértem viselkedjen úgy mint egy borász és egy ügyvezető és a legfontosabb pontokat sorolja fel az applikációhoz, határozott választ adott és ötletet, amik felhasználhatóak lennének és valóban megkönnyítenék a mindennap adminisztrációt. 
 
 
