@@ -15,8 +15,8 @@ Mik az előnyei?
 
 | Modell | Vendor | Felhasználási terület |
 |---|---|---|
-| Claude Sonnet 5.5 | Anthropic	| Általános AI, coding, RAG
-| Claude Haiku 5.5 |	Anthropic |	Gyors, olcsó chatbot
+| Claude Sonnet 5.5 | Anthropic	| Erős, költséghatékony AI-modell mindennapi programozáshoz, hibakereséshez, kódellenőrzéshez, AI-agent feladatokhoz, vállalati dokumentumok és prezentációk készítéséhez, pénzügyi elemzéshez, valamint UI- és designtervezéshez.
+| Claude Haiku 5.5 |	Anthropic |	Gyors és költséghatékony AI-modell nagy volumenű szövegfeldolgozáshoz, valós idejű chatbotokhoz, egyszerű programozáshoz, párhuzamos AI-agentekhez és böngésző- vagy asztali automatizáláshoz.
 | Claude Opus 5.5 | Anthropic	| Prémium AI-modell komplex programozáshoz, autonóm AI-agentekhez, vállalati folyamatok automatizálásához, pénzügyi elemzéshez, vizuális dokumentumfeldolgozáshoz és több alkalmazáson átívelő számítógépes feladatokhoz.
 | Amazon Nova Pro | Amazon	| Multimodális AI, enterprise
 | Amazon Nova Lite	| Amazon	| Költséghatékony AI
