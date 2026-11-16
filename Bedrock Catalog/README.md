@@ -28,5 +28,5 @@ Mik az előnyei?
 | Cohere Command R	| Cohere	| RAG, vállalati keresés
 | Cohere Embed v4	| Cohere	| Embedding, szemantikus keresés
 | Cohere Rerank 3.5	| Cohere | RAG találatok újrarangsorolása
-14	Amazon Titan Text Embeddings V2	Amazon	Vector search, RAG
-15	Qwen3 235B A22B	Qwen	Reasoning, komplex szövegfeldolgozás
+| Amazon Titan Text Embeddings V2	| Amazon |	Vector search, RAG
+| Qwen3 235B A22B |	Qwen | Reasoning, komplex szövegfeldolgozás
