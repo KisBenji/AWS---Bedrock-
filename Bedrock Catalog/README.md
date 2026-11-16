@@ -12,3 +12,9 @@ Mik az előnyei?
 3. Összehasonlíthatod a modellek teljesítményét.
 4. Kiválaszthatod az ár, sebesség és minőség szempontjából megfelelő modellt.
 5. Integrálhatod az AWS Knowledge Bases, Agents és Guardrails szolgáltatásokkal.
+
+| Modell | Vendor | Felhasználási terület |
+|---|---|---|
+| Claude Sonnet 5.5 | Anthropic	| Általános AI, coding, RAG
+| Anna | 28 | Tesztelő |
+| Gábor | 30 | Projektvezető |
