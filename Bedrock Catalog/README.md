@@ -16,5 +16,17 @@ Mik az előnyei?
 | Modell | Vendor | Felhasználási terület |
 |---|---|---|
 | Claude Sonnet 5.5 | Anthropic	| Általános AI, coding, RAG
-| Anna | 28 | Tesztelő |
-| Gábor | 30 | Projektvezető |
+| Claude Haiku 4.5 |	Anthropic |	Gyors, olcsó chatbot
+| Claude Opus 5	| Anthropic	| Komplex reasoning, agentek
+| Amazon Nova Pro | Amazon	| Multimodális AI, enterprise
+| Amazon Nova Lite	| Amazon	| Költséghatékony AI
+| Llama 3.3 70B |	Meta | Open-weight, általános AI
+| DeepSeek R1	| DeepSeek	| Reasoning, matematikai feladatok
+| DeepSeek V3.2	| DeepSeek |	Általános szöveggenerálás
+| Mistral Large 3	| Mistral	| Enterprise, szövegfeldolgozás
+| Amazon Nova Micro |	Amazon | Classification, egyszerű feladatok
+| Cohere Command R	| Cohere	| RAG, vállalati keresés
+| Cohere Embed v4	| Cohere	| Embedding, szemantikus keresés
+| Cohere Rerank 3.5	| Cohere | RAG találatok újrarangsorolása
+14	Amazon Titan Text Embeddings V2	Amazon	Vector search, RAG
+15	Qwen3 235B A22B	Qwen	Reasoning, komplex szövegfeldolgozás
