@@ -8,6 +8,7 @@ Lehetővé teszi, hogy különböző AI-szolgáltatók modelljei közül válass
 # Milyen előnyökkel rendelkezik?
 
 ✅ Nem kell minden AI-szolgáltatóhoz külön integrációt készíteni.
+
 ✅ Egy közös AWS-környezetből érheted el a különböző modelleket.
 ✅ Összehasonlíthatod a modellek teljesítményét.
 ✅ Kiválaszthatod az ár, sebesség és minőség szempontjából megfelelő modellt.
