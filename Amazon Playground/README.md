@@ -7,6 +7,7 @@ Interaktív fejlesztői felület, ahol különböző AI-modellek tesztelhetők, 
 Leírás: Valós idejű, hangalapú AI-modell, amely természetes, kétirányú beszélgetéseket tesz lehetővé. Támogatja a többnyelvű kommunikációt, a hangalapú utasítások értelmezését, a megszakítások kezelését és a külső eszközök használatát. Ideális hangvezérelt chatbotokhoz, AI-asszisztensekhez és telefonos ügyfélszolgálati rendszerekhez.
 
 Prompt magyarul: 
+```text
 Egy AI-alapú alkalmazást szeretnék fejleszteni borászatok számára, amely drasztikusan csökkenti a napi adminisztratív feladatokra fordított időt.
 
 Az alkalmazás egyetlen rendszerben kezelje a borászat mindennapi folyamatait: pincei munkanapló, borkezelési műveletek, laboreredmények, készletnyilvántartás, szőlőbeszállítás, dokumentáció és határidők.
@@ -28,6 +29,7 @@ A végén térj ki három kérdésre:
 3. Milyen MVP-verzióval indulnál, amelyet már valódi borászatok is használhatnak?
 
 Legyél gyakorlatias, innovatív és üzletileg reális. Ne általános AI-ötleteket sorolj, hanem egy valóban megvalósítható borászati alkalmazást tervezz.
+```
 
 Válasz: A felépített prompt esetén a modell tört magyarral válaszolt. Nehéz volt a megértése és a válasz is inkább tűnt találgatásnak, mint pontos pontokba szedett ajánlásnak.
 
