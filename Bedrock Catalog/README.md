@@ -5,13 +5,13 @@ Az Amazon Bedrock Model Catalog az AWS-en belül elérhető mesterségesintellig
 
 Lehetővé teszi, hogy különböző AI-szolgáltatók modelljei közül válasszunk, kipróbáljuk és alkalmazásainkba integráljuk őket anélkül, hogy minden modellhez külön infrastruktúrát kellene kialakítani.
 
-Mik az előnyei? 
+# Milyen előnyökkel rendelkezik?
 
-1. Nem kell minden AI-szolgáltatóhoz külön integrációt készíteni.
-2. Egy közös AWS-környezetből érheted el a különböző modelleket.
-3. Összehasonlíthatod a modellek teljesítményét.
-4. Kiválaszthatod az ár, sebesség és minőség szempontjából megfelelő modellt.
-5. Integrálhatod az AWS Knowledge Bases, Agents és Guardrails szolgáltatásokkal.
+✅ Nem kell minden AI-szolgáltatóhoz külön integrációt készíteni.
+✅ Egy közös AWS-környezetből érheted el a különböző modelleket.
+✅ Összehasonlíthatod a modellek teljesítményét.
+✅ Kiválaszthatod az ár, sebesség és minőség szempontjából megfelelő modellt.
+✅ Integrálhatod az AWS Knowledge Bases, Agents és Guardrails szolgáltatásokkal.
 
 Alább a katalógusból pár modell, rövid leírással a felhasználási területtel. 
 
