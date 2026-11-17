@@ -1,4 +1,4 @@
-# AWS Bedrock – Wine AI Teszt
+# AWS Bedrock Playground – Wine AI Teszt
 
 A teszt célja, hogy összehasonlítam az AWS Bedrock platformon elérhető különböző MI modellek teljesítményét borászati témakörben.
 
