@@ -37,6 +37,7 @@ Milyen szőlőfajták vagy bortípusok készülhetnek ilyen jellemzőkkel? Mondj
 ```
 
 **Angol kérdés:** 
+
 A modell új információt kap a termőhely meleg klímájáról. Megvizsgáljuk, hogy képes-e újragondolni korábbi következtetéseit, miközben angolra vált.
 
 ```text
@@ -44,6 +45,7 @@ The wine comes from a warm climate region. Does this change your previous assess
 ```
 
 **Angol kérdés:** 
+
 Fogyasztói szituációban kell konkrét bort ajánlania, megkülönböztetve a gyümölcsös aromákat és az édességet.
 
 ```text
