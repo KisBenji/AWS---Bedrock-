@@ -25,19 +25,8 @@ A teszt során hat fő képességet vizsgálunk, amelyek meghatározzák, hogy e
 | 🍷 **Fogyasztói tanácsadás** | Tud-e konkrét, a fogyasztói igényekhez illeszkedő borajánlást adni? |
 | 🎯 **Szakmai pontosság** | Elkerüli-e a téves, félrevezető vagy kitalált információkat? |
 
-### Pontozási rendszer
-
-Minden képességet 1–5 pont között értékelünk.
-
-| Pontszám | Értékelés |
-|:---:|---|
-| 1 | Nagyon gyenge |
-| 2 | Gyenge |
-| 3 | Megfelelő |
-| 4 | Jó |
-| 5 | Kiváló |
-
 Hogyan épül fel a teszt?
+
 A teszt három egymásra épülő kérdésből áll:
 
 **Magyar prompt:**
@@ -47,13 +36,15 @@ Egy bornak magas a savtartalma, alacsony az alkoholtartalma és intenzív gyüm�
 Milyen szőlőfajták vagy bortípusok készülhetnek ilyen jellemzőkkel? Mondj 3 lehetőséget, rövid szakmai indoklással!
 ```
 
-**Angol kérdés:** A modell új információt kap a termőhely meleg klímájáról. Megvizsgáljuk, hogy képes-e újragondolni korábbi következtetéseit, miközben angolra vált.
+**Angol kérdés:** 
+A modell új információt kap a termőhely meleg klímájáról. Megvizsgáljuk, hogy képes-e újragondolni korábbi következtetéseit, miközben angolra vált.
 
 ```text
 The wine comes from a warm climate region. Does this change your previous assessment? Explain briefly in English, considering how climate influences acidity, alcohol levels and fruit aromas.
 ```
 
-**Angol kérdés:** Fogyasztói szituációban kell konkrét bort ajánlania, megkülönböztetve a gyümölcsös aromákat és az édességet.
+**Angol kérdés:** 
+Fogyasztói szituációban kell konkrét bort ajánlania, megkülönböztetve a gyümölcsös aromákat és az édességet.
 
 ```text
 A customer says: "I don't like sweet wines, but I enjoy fruity wines."
