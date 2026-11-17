@@ -71,5 +71,5 @@ A magyar nyelvű első válaszban azonban több nyelvi és terminológiai hiba j
 
 A meleg klímára vonatkozó magyarázat alapvetően helyes volt, de az alkoholszint növekedését pontatlanul az erjedés hosszával és teljességével magyarázta. Helyesebb indoklás lett volna a szőlő magasabb cukortartalma és az ebből származó magasabb potenciális alkoholtartalom.
 
-A harmadik kérdésre adott válasza viszont jó minőségű volt. A száraz Sauvignon Blanc ajánlása praktikus, a gyümölcsösség és édesség közötti különbség magyarázata pedig szakmailag megfelelő.
+A harmadik kérdésre adott válasza viszont jó volt. A száraz Sauvignon Blanc ajánlása praktikus, a gyümölcsösség és édesség közötti különbség magyarázata pedig szakmailag megfelelő.
 [Beszélgetés megtekintése](<../Nova Micro/README.md>)
