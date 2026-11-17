@@ -7,7 +7,7 @@ Nova Micro egy szövegfeldolgozásra optimalizált alapmodell, amely szövegért
 User: Egy bornak magas a savtartalma, alacsony az alkoholtartalma és intenzív gyümölcsös aromái vannak.
 
 Milyen szőlőfajták vagy bortípusok készülhetnek ilyen jellemzőkkel? Mondj 3 lehetőséget, rövid szakmai indoklással!
-Model: Az említett jellemzők alapján a következő bortípusok és szőlőfajták alkalmasak:
+Model: Az említett jellemzők alapján a következő bortípusok és szőlőfajták alkalmasak: 
 
 1. **Chardonnay** 
    - **Indoklás**: A Chardonnay szőlőfajta általában magas savtartalmat mutat, és alacsony alkoholtartalmat is elérhet, ha megfelelően érlelik. Az intenzív gyümölcsös aromái főleg a termesztési körülmények és az érzelés módja által befolyásoltak. A Chardonnay borokban gyakori az alma, banyán, és az ananász íze, amit az említett jellemzők is jól leírnak.
