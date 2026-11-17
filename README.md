@@ -4,3 +4,13 @@ Teljes körűen menedzselt AWS-szolgáltatás, amelyen keresztül különböző 
 
 > [!TIP]
 > [Read the AWS documentation](https://docs.aws.amazon.com/bedrock/)
+
+
+## Az Amazon Bedrock előnyei
+
+- 🤖 Többféle AI-modell közül választhatunk egy helyen.
+- ☁️ Nem kell saját szervert vagy drága GPU-t vásárolnunk.
+- 🔒 Az AWS segítségével biztonságosan kezelhetjük a hozzáféréseket és az adatokat.
+- ⚡ Könnyen összeköthető más AWS-szolgáltatásokkal és alkalmazásokkal.
+- 📈 Ha többen használják az alkalmazást, könnyen bővíthető.
+- 💰 A használat alapján fizetünk, így nem kell folyamatosan saját infrastruktúrát fenntartanunk.
