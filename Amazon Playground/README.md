@@ -59,7 +59,7 @@ A meleg klímára vonatkozó kiegészítő információt megfelelően beépítet
 
 A fogyasztói ajánlás során a száraz Chenin Blanc mellett döntött. A gyümölcsösség és az édesség közötti különbséget világosan és gyakorlatiasan magyarázta el.
 
-A **Qwen3-235B-A22B-2507** magyar nyelvű válasza jól érthető volt, és három releváns szőlőfajtát ajánlott: Riesling, Grüner Veltliner és Sauvignon Blanc. [Beszélgetés megtekintése](IDE_MÁSOLOD_BE_A_PATH-OT)
+A **Qwen3-235B-A22B-2507** magyar nyelvű válasza jól érthető volt, és három releváns szőlőfajtát ajánlott: Riesling, Grüner Veltliner és Sauvignon Blanc. [Beszélgetés megtekintése](<../Qwen3 235B A22B 2507/README.md>)
 
 A meleg klímára vonatkozó kérdésnél helyesen módosította a korábbi értékelését. Megfelelően magyarázta el a klíma hatását a savtartalomra, az alkoholszintre és a gyümölcsaromákra.
 
