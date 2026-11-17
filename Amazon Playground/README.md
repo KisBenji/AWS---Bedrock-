@@ -52,85 +52,80 @@ A Nova 2 Lite egy fejlett, multimodális AI-modell, amely a teljesítményt és 
 User: Egy bornak magas a savtartalma, alacsony az alkoholtartalma és intenzív gyümölcsös aromái vannak.
 
 Milyen szőlőfajták vagy bortípusok készülhetnek ilyen jellemzőkkel? Mondj 3 lehetőséget, rövid szakmai indoklással!
-Model: ### 3 bortípus/grape variety, amelyek megfelelnek a leírt jellemzőknek:
 
----
 
-#### 1. **Német Riesling (pl. Mosel, Rheingau, Pfalz)**
-- **Indoklás:**  
-  A Riesling klasszikusan **magas savtartalmat** mutat (tartós, friss savak – citrus, zelenina, mineral notes), miközben **alacsony alkoholtartalma** (8,5–12% vol.) jellemző, főleg hűvös éghajlati régiókban (pl. Mosel). Az **intenzív gyümölcsös aromák** (citrus, citrom, grapefruít, fehér személyes gyümölcsök, valamint virágos, petrol notes) erősen kiemelkednek, különösen fiatal koraiban vagy könnyű, száraz stílusban készítve. A borok könnyen élvezhetők fiatal korukban, és remek példája a sav–édesen–gyümölcsös egyensúlynak.
+Model: ### 3 bortípus/gazdag szőlőfajta ilyen jellemzőkkel  
 
----
+1. **Riesling (főleg hőmérsékleten alacsonyabb régiókban, pl. Mosel, Rheingau, Alsácia)**  
+   - **Indoklás:** A Riesling természetesen magas savtartalommal (5–8 g/l) bír, és ha hűvös éghajlaton vagy korai szüretkor gyüjtik be, az alkoholtartalom alacsony marad (8–10% ABV). A borok intenzív gyümölcsös (citrus, tropikus gyümölcs), virágos és mineralis aromákat mutatnak, ami pontosan a leírásodhoz illeszkedik.  
 
-#### 2. **Vinho Verde (Észak-Portugália)**
-- **Indoklás:**  
-  A Vinho Verde (**zöld bor**) típus tipikusan **alacsony alkoholtartalmú** (9–11,5% vol.), mert fiatal szölőből, hűvös éghajlatból készül. A **magas savtartalom** (friss, csipős savak) és a **határozott gyümölcsös aromák** (zöld alma, citrom, görögdinnye, valamint valók, szárnyvirágok) jellemzik. A borok könnyű, könnyen inni valóak, és gyakran szénsavanyú (pezsgő) változatban is ismertek, ami tovább erősíti a friss, dinamikus jellegüket.
+2. **Pinot Gris (főleg Burgundia, Alsácia vagy Deutsch-Osten)**  
+   - **Indoklás:** A Pinot Gris kisebb cukortartommal rendelkezik, ezért alacsonyabb alkoholtartalomú (8,5–10,5% ABV) borokat ad, miközben kivételesen magas savanyagságra (4–6 g/l) jogosít. Hűvös klímában intenzív alma, körte, citrom és fehér szőlő aromákat fejleszt, ami erősen illeszkedik a „gyümölcsös aromák” követelményhez.  
 
----
+3. **Sauvignon Blanc (főleg hűvös éghajlatú régiókban, pl. Loire-völgy, Burgundia vagy Dél-Ausztrália)**  
+   - **Indoklás:** A Sauvignon Blanc természetesen savanykás (5–7 g/l), és ha hűvös időjárás vagy korai szüret biztosítja, az alkoholtartalom is alacsony marad (8–9,5% ABV). A borok élénk citrusos (limon, citrom), zöldfűszeres és intenzív gyümölcsös (ananasz, mangó) aromákkal rendelkeznek, miközben a sav Anyagozott szöveg.  
 
-#### 3. **Grüner Veltliner (Ausztria)**
-- **Indoklás:**  
-  Ez az ausztriai szőlőfajta **kivételesen magas savtartalmat** termel (éles, dinamikus savak), miközben az alkoholtartalma tipikusan **közepesen alacsony** (11–13% vol.), főleg hűvös hegyvidéki szőlőkben. Az **intenzív gyümölcsös aromák** (zöld alma, káposzta virág, citrom, görögdinnye, valamint finom fűszeres jelek – fűszerbokor, fekete szerecsnyefű) egyedülálló kombinációt alkot. A borok komplexek, de ugyanakkor könnyen ivhatók fiatal korukban, és ideális kiegészítő a könnyű ételekhez.
-
----
-
-### Összegzés:
-- **Riesling:** A legklasszikusabb példa magas savra és intenzív aromára alacsony alkohol mellett.  
-- **Vinho Verde:** Regionális specialitás, tipikusan nagyon alacsony alkohol és friss gyümölcsös jelleg.  
-- **Grüner Veltliner:** Ausztria jellegzetes borfajta, amely egyedi aromakombinációval kombinálja a savanykás frissességet és a gyümölcsösséget.
+**Rövid összefoglaló:** Ezek a bortípusok hűvös klímában, korai szüretben vagy alacsony cukorszintű szőlőkben termelve tökéletesen egyeznek a magas sav-, alacsony alkohol- és intenzív gyümölcsös aróma követelményekkel.
 User: The wine comes from a warm climate region. Does this change your previous assessment? Explain briefly in English, considering how climate influences acidity, alcohol levels and fruit aromas.
-Model: ### **Revised Assessment for Warm Climate Regions**  
-
-Warm climates **increase alcohol levels** (due to full ripening and sugar accumulation) and often **reduce natural acidity** (as malic acid diminishes during long, hot growing seasons). However, certain grapes or winemaking techniques can still produce wines with **high acidity, low alcohol, and intense fruit aromas** even in warmth. Here’s the revised list, with explanations of how these wines adapt to warm conditions:
-
----
-
-#### **1. Assyrtiko (Santorini, Greece)**  
-- **Why it fits warm climates:**  
-  Santorini’s **volcanic soils, intense sunlight, and strong winds** create a unique microclimate. Despite the warm region, Assyrtiko retains **exceptionally high acidity** (citric and malic) due to poor soil nutrition and salt-rich conditions that slow ripening. Alcohol levels stay **moderate (12–13% ABV)** if harvested early, and the wine exhibits **intense, vibrant fruit aromas** (citrus, pineapple, grapefruit, and mineral notes). The warmth enhances flavor concentration without excessive alcohol.  
+Model: ### **Revised Assessment for Warm Climate Wines**  
+Warm climates fundamentally alter the balance of acidity, alcohol, and aroma development in grapes, making the original recommendations (Riesling, Pinot Gris, Sauvignon Blanc) **less ideal**, as these varieties typically thrive in cooler regions to retain high acidity and lower alcohol. Here’s why, and three revised suggestions:
 
 ---
 
-#### **2. Etna Bianco (Mount Etna, Sicily, Italy)**  
-- **Why it fits warm climates:**  
-  Mount Etna’s **high altitude, volcanic soils, and cool night temperatures** counteract Sicily’s heat. Etna Bianco (often a blend of **Carricante, Neretta, and Malvasia**) maintains **bright, crisp acidity** due to diurnal temperature swings. Alcohol remains **modest (12–13% ABV)** when picked early, while the warmth amplifies **intense, aromatic fruit flavors** (lemon zest, lime, orange blossom, and floral hints). The high elevation preserves freshness even in a hot region.  
+#### **Why Warm Climates Change the Profile**  
+1. **Acidity ↓**:  
+   In warm regions, grapes ripen fully under abundant sun, dissolving natural acids (malic, tartaric). This reduces total acidity (TA), often below 5 g/l unless mitigated by viticultural tricks (e.g., early harvest, cool microclimates).  
+
+2. **Alcohol ↑**:  
+   Warm sun spurs sugar accumulation. Grapes often reach high Brix levels, leading to alcohol content **>12% ABV** if fermented dry — conflicting with the “low alcohol” requirement.  
+
+3. **Fruit Aromas ↔️**:  
+   Warm climates amplify **ripeness-driven** fruit notes (stone fruits, tropical flavors) but can dull the crisp, citrusy/virginity notes prized in cooler-climate whites. Intense aromatics survive but shift toward jammy or honeyed tones.  
 
 ---
 
-#### **3. Early-Harvest Riesling (Warm-Climate Regions, e.g., South Australia or California)**  
-- **Why it fits warm climates:**  
-  In warm areas (e.g., **Clare Valley, Australia**, or **Central Coast, California**), Riesling can still achieve **high acidity** if harvested **very early** (before full ripeness). While alcohol may rise slightly (**11–13% ABV**), careful harvesting preserves **zesty acidity** and allows **intense, pure fruit aromas** (citrus, green apple, and stone-fruit notes). Winemakers often use **cool-fermentation techniques** and avoid oak to retain freshness. The warmth intensifies flavor depth without turning jammy or raisiny.  
+#### **3 Revised Options for Warm-Climate Wines with High Acidity, Low Alcohol & Intense Fruit Aromas**  
+
+1. **Chenin Blanc (e.g., Loire Valley “dry” styles or South Africa’s coastal regions)**  
+   - **Why it fits**:  
+     Chenin Blanc can retain **moderate acidity (4–6 g/l)** even in warmth if harvested early or from cooler sites (e.g., morning slopes). Its natural acidity is higher than many warm-climate varieties.  
+     - **Alcohol control**: Lower yields and early picking keep alcohol around **9–11% ABV**.  
+     - **Aromas**: Offers intense stone-fruit (apricot, peach), honey, and floral notes without excessive jamminess.  
+
+2. **Falanghina (Southern Italy, especially Campania)**  
+   - **Why it fits**:  
+     Falanghina ripens early, allowing growers to harvest **before extreme sugar spikes**, preserving **acidity (4–5 g/l)**. Its thick skins resist over-ripeness.  
+     - **Alcohol**: Typically **9–10.5% ABV** when harvested at lower sugar levels.  
+     - **Aromas**: Bright citrus (lemon zest), pear, and mineral notes with a distinctively fruity intensity.  
+
+3. **Viognier (Plantation-grown in high-altitude warm zones, e.g., northern Spain or California mountains)**  
+   - **Why it fits**:  
+     Viognier *can* maintain **decent acidity (3.5–5 g/l)** if grown at altitude or with strict yield control, counteracting warm valley heat.  
+     - **Alcohol**: Careful harvesting limits ABV to **10–11%**.  
+     - **Aromas**: Explosive stone-fruit (peach, apricot), floral, and spicy notes — very aromatic, though prone to higher alcohol if mismanaged.  
 
 ---
 
-### **Key Climate Influences Explained**  
-1. **Acidity:**  
-   - In warm climates, acidity naturally drops as grapes ripen.  
-   - **Solutions:** Early harvesting, poor-soil grapes (like Assyrtiko), or high-altitude vineyards (like Etna) preserve acidity.  
+#### **Key Adjustments for Warm Climates**  
+To achieve **high acidity + low alcohol** in warm regions, winemakers often:  
+- **Harvest early** (before peak sugar).  
+- **Select acid-retaining clones** (e.g., Chenin Blanc sub-varieties).  
+- **Use viticultural tricks**: shade netting, cool-favored rootstocks, or Morning-facing vineyards.  
+- **Add acidity post-fermentation** (tartaric acid) if regulations permit.  
 
-2. **Alcohol:**  
-   - Warmth boosts sugar levels → higher alcohol.  
-   - **Solutions:** Early picking and selecting grapes with lower inherent sugar (e.g., Riesling) keep alcohol **low-to-moderate**.  
-
-3. **Fruit Aromas:**  
-   - Warmth concentrates flavors but can mute freshness if overripe.  
-   - **Solutions:** Grapes with natural intensity (Assyrtiko’s citrus, Riesling’s aromatics) and cool nights (Etna) maintain vibrant, zesty notes.  
-
----
-
-### **Conclusion**  
-Warm climates *do* change the assessment: classic cool-climate varieties (like Mosel Riesling or Vinho Verde) may not fit unless grown in microclimates. However, **Assyrtiko, Etna Bianco, and early-harvest Riesling** are proven to deliver **high acidity, low-moderate alcohol, and intense fruit** even in warmth, thanks to **altitude, soil, or precise viticultural practices**.
+The original Riesling/Pinot Gris/Sauvignon Blanc trio remains perfect for *cool* climates, but warm regions demand varieties with **earlier ripening** and **built-in acid resilience** — like the three above.
 User: A customer says: "I don't like sweet wines, but I enjoy fruity wines."
 
 Based on the previous discussion, recommend one specific grape variety or wine style. Explain why it is suitable and clarify the difference between fruity and sweet. Keep your answer practical and concise.
-Model: ### **Recommendation: Dry Assyrtiko (Santorini, Greece)**  
+Model: ### **Recommendation: Dry Chenin Blanc**  
 
-#### **Why it’s perfect for you:**  
-- **Fruity but not sweet:** Assyrtiko delivers **intense, vibrant fruit flavors** (citrus, pineapple, grapefruit, and mineral notes) while being **bone-dry** (no residual sugar). Its high acidity keeps it refreshing and far from sweet.  
-- **Warm-climate advantage:** Despite Santorini’s heat, volcanic soils and strong winds preserve acidity and prevent excessive sugar buildup, ensuring the wine stays crisp and fruit-forward without any sweetness.  
+**Why it fits:**  
+- **Fruity but dry**: Dry Chenin Blanc (especially from warm regions like South Africa’s coastal zones or the Loire Valley) delivers **intense stone-fruit flavors** (peach, apricot, pineapple) and floral/honey notes *without residual sugar*. The fruitiness comes from concentrated flavor compounds, not sweetness.  
+- **Acidity balance**: It retains crisp acidity (4–6 g/l), keeping the palate refreshed and preventing the wine from tasting cloying—even in warm climates.  
+- **Low to moderate alcohol**: When harvested at moderate ripeness, it stays around **9–11% ABV**, avoiding the high alcohol typical of warm-climate wines.  
 
-#### **Fruity vs. Sweet – Key Difference:**  
-- **Fruity** = *Flavor profile*: The wine tastes of citrus, stone fruit, or tropical notes (like a juicy fruit salad), but it’s **dry** (no sugar).  
-- **Sweet** = *Sugar content*: Wines with residual sugar (like dessert wines) taste syrupy or sticky, which you dislike.  
+**Fruity vs. Sweet – The Key Difference:**  
+- **Fruity** = *Flavor profile*: The wine tastes of ripe fruits (e.g., peach, citrus) due to aromatic compounds in the grapes. This can exist in **dry, off-dry, or sweet** wines.  
+- **Sweet** = *Residual sugar*: Measured in grams/liter (e.g., 50+ g/l for dessert wines). Sweetness adds sweetness to the palate, coating the tongue.  
 
-Assyrtiko gives you the **fruitiness you love** without any of the **sweetness you avoid**. Serve it chilled as an aperitif or with seafood!
+Dry Chenin Blanc is **fruity** (lots of fruit flavor) but **not sweet** (low sugar, high acidity), making it ideal for your customer.
