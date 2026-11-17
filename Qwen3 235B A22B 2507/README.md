@@ -1,3 +1,8 @@
+# Qwen3 235B A22B 2507
+## Leírás:
+
+A Qwen3-235B-A22B az Alibaba által fejlesztett, nyílt súlyú, Mixture-of-Experts (MoE) architektúrájú nagy nyelvi modell. Összesen 235 milliárd paraméterrel rendelkezik, amelyek közül egy adott feldolgozás során 22 milliárdot aktivál. Erős szövegértési, logikai következtetési és többnyelvű képességekkel rendelkezik, valamint alkalmas összetett feladatok, például matematikai és programozási problémák megoldására.
+
 User: Egy bornak magas a savtartalma, alacsony az alkoholtartalma és intenzív gyümölcsös aromái vannak.
 
 Milyen szőlőfajták vagy bortípusok készülhetnek ilyen jellemzőkkel? Mondj 3 lehetőséget, rövid szakmai indoklással!
