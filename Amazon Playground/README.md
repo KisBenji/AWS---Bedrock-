@@ -53,7 +53,7 @@ Based on the previous discussion, recommend one specific grape variety or wine s
 
 # Kiértékelés
 
-A **Nova 2 Lite** kiegyensúlyozott teljesítményt nyújtott. A magyar nyelvű válasza érthető és szakmailag releváns volt, bár néhány pontatlanság és megfogalmazási hiba előfordult. [Beszélgetés megtekintése](Nova%202%20Lite/README.md)
+A **Nova 2 Lite** kiegyensúlyozott teljesítményt nyújtott. A magyar nyelvű válasza érthető és szakmailag releváns volt, bár néhány pontatlanság és megfogalmazási hiba előfordult. [Beszélgetés megtekintése](<./Nova 2 Lite/README.md>)
 
 A meleg klímára vonatkozó kiegészítő információt megfelelően beépítette a korábbi értékelésébe. Helyesen felismerte, hogy a melegebb termőhely általában alacsonyabb savtartalommal, magasabb potenciális alkoholtartalommal és érettebb gyümölcsaromákkal járhat.
 
