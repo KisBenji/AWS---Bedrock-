@@ -1,6 +1,31 @@
-# Amazon Playground
+# AWS Bedrock – Wine AI Benchmark
 
-Interaktív fejlesztői felület, ahol különböző AI-modellek tesztelhetők, promptok próbálhatók ki, valamint a modellek válaszai és beállításai összehasonlíthatók kódolás nélkül.
+A teszt célja, hogy összehasonlítsuk az AWS Bedrock platformon elérhető különböző mesterségesintelligencia-modellek teljesítményét borászati témakörben.
+
+Azt szeretnénk megvizsgálni, hogy melyik modell képes a legjobb minőségű, szakmailag helyes és gyakorlatban is használható válaszokat adni egy borászati szituációban.
+
+Nemcsak a modellek általános tudását vizsgáljuk, hanem azt is, hogyan kezelik a több lépésből álló beszélgetéseket és a nyelvváltást.
+2. Hol végezzük a tesztet?
+A tesztelés az Amazon Web Services (AWS) Bedrock platformon történik.
+
+Az AWS Bedrockon keresztül elérhető különböző AI-modelleket ugyanazzal a három kérdésből álló tesztsorral vizsgáljuk meg.
+
+Minden modellt azonos feltételek mellett tesztelünk, hogy a kapott válaszok összehasonlíthatók legyenek.
+3. Mit vizsgálunk?
+Hat fő képességet értékelünk:
+Vizsgált képesség	Mit szeretnénk megtudni?
+Magyar nyelv	Természetes és szakmailag helyes magyar fogalmazás
+Borászati szaktudás	Szőlőfajták, borstílusok és borászati összefüggések ismerete
+Kontextuskezelés	Képes-e az új információk alapján módosítani korábbi válaszát?
+Angol nyelv	Természetes és helyes angol kommunikáció
+Fogyasztói tanácsadás	Tud-e konkrét, megfelelő borajánlást adni?
+Szakmai pontosság	Elkerüli-e a téves vagy kitalált információkat?
+
+4. Hogyan épül fel a teszt?
+A teszt három egymásra épülő kérdésből áll:
+1. Magyar kérdés: Borászati szaktudás vizsgálata. A modellnek három lehetséges szőlőfajtát vagy bortípust kell javasolnia adott borjellemzők alapján.
+2. Angol kérdés: A modell új információt kap a termőhely meleg klímájáról. Megvizsgáljuk, hogy képes-e újragondolni korábbi következtetéseit, miközben angolra vált.
+3. Angol kérdés: Fogyasztói szituációban kell konkrét bort ajánlania, megkülönböztetve a gyümölcsös aromákat és az édességet.
 
 # Nova 2.5 Sonic 
 
