@@ -1,6 +1,6 @@
 # Amazon Bedrock Model Catalog
 
-Az Amazon Bedrock Model Catalog az AWS-en belül elérhető mesterségesintelligencia-modellek központi katalógusa.
+Az Amazon Bedrock Model Catalog az AWS-en belül elérhető MI modellek központi katalógusa.
 
 Lehetővé teszi, hogy különböző AI-szolgáltatók modelljei közül válasszunk, kipróbáljuk és alkalmazásainkba integráljuk őket anélkül, hogy minden modellhez külön infrastruktúrát kellene kialakítani.
 
