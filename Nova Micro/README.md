@@ -1,5 +1,7 @@
 # Nova Micro 
 
+## Leírás:
+
 Nova Micro egy szövegfeldolgozásra optimalizált alapmodell, amely szövegértési és szöveggenerálási feladatokra alkalmas. Többnyelvű, képes szöveges információk értelmezésére és azok alapján történő következtetésre. Elsősorban gyors, hatékony szövegalapú alkalmazásokhoz használható.
 
 User: Egy bornak magas a savtartalma, alacsony az alkoholtartalma és intenzív gyümölcsös aromái vannak.
@@ -39,5 +41,7 @@ Model: If you enjoy fruity wines but prefer them less sweet, I recommend trying 
 - **Sweet:** Refers to the residual sugar content in the wine. A sweet wine has noticeable sweetness from unfermented sugars, while a dry wine has minimal to no residual sweetness.
 
 Enjoy your exploration of Sauvignon Blanc!
+
+# Rövid Összegzés:
 
 A Nova Micro jól teljesít a kontextus követésében, az angol nyelvű válaszadásban és a fogyasztói ajánlásban. A legnagyobb gyengesége a magyar szakmai szöveg minősége, különösen a szőlészeti-borászati terminológia és a pontatlan kifejezések használata.
