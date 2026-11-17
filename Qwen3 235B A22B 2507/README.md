@@ -5,7 +5,7 @@ A Qwen3-235B-A22B az Alibaba által fejlesztett, nyílt súlyú, Mixture-of-Expe
 
 User: Egy bornak magas a savtartalma, alacsony az alkoholtartalma és intenzív gyümölcsös aromái vannak.
 
-Milyen szőlőfajták vagy bortípusok készülhetnek ilyen jellemzőkkel? Mondj 3 lehetőséget, rövid szakmai indoklással!
+Milyen szőlőfajták vagy bortípusok készülhetnek ilyen jellemzőkkel? Mondj 3 lehetőséget, rövid szakmai indoklással! 
 
 
 Model: Az említett jellemzők – **magas savtartalom, alacsony alkoholtartalom, intenzív gyümölcsös aroma** – általában olyan szőlőfajtákra vagy borokra jellemzőek, amelyek **hűvösebb éghajlaton** érnek érettséget, ahol a hosszabb, lassú érés lehetővé teszi az aromafejlődést anélkül, hogy a cukortartalom (és ezáltal az alkoholtartalom) drasztikusan megnőne. Íme három ilyen típus:
