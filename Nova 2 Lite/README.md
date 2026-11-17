@@ -1,5 +1,7 @@
 # Nova 2 Lite
 
+## Leírás: 
+
 A Nova 2 Lite egy fejlett, multimodális AI-modell, amely a teljesítményt és a hatékonyságot ötvözi. A feladat összetettségéhez igazítja a gondolkodási mélységet, ezért alkalmas összetett feladatok, automatizált munkafolyamatok, szoftverfejlesztés és üzleti alkalmazások támogatására.
 
 User: Egy bornak magas a savtartalma, alacsony az alkoholtartalma és intenzív gyümölcsös aromái vannak.
@@ -70,6 +72,9 @@ Fruity vs. Sweet – The Key Difference:
 Fruity = Flavor profile: The wine tastes of ripe fruits (e.g., peach, citrus) due to aromatic compounds in the grapes. This can exist in dry, off-dry, or sweet wines.
 Sweet = Residual sugar: Measured in grams/liter (e.g., 50+ g/l for dessert wines). Sweetness adds sweetness to the palate, coating the tongue.
 Dry Chenin Blanc is fruity (lots of fruit flavor) but not sweet (low sugar, high acidity), making it ideal for your customer.
+
+
+# Rövid összegzés
 
 A Nova 2 Lite jól teljesített a borászati teszt során. Különösen erős a strukturált válaszadásban, a kontextus kezelésében és az angol nyelvű fogyasztói tanácsadásban.
 
