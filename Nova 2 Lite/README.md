@@ -4,7 +4,7 @@
 
 A Nova 2 Lite egy fejlett, multimodális AI-modell, amely a teljesítményt és a hatékonyságot ötvözi. A feladat összetettségéhez igazítja a gondolkodási mélységet, ezért alkalmas összetett feladatok, automatizált munkafolyamatok, szoftverfejlesztés és üzleti alkalmazások támogatására.
 
-User: Egy bornak magas a savtartalma, alacsony az alkoholtartalma és intenzív gyümölcsös aromái vannak.
+User: Egy bornak magas a savtartalma, alacsony az alkoholtartalma és intenzív gyümölcsös aromái vannak. 
 
 Milyen szőlőfajták vagy bortípusok készülhetnek ilyen jellemzőkkel? Mondj 3 lehetőséget, rövid szakmai indoklással!
 
