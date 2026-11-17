@@ -14,7 +14,6 @@ Lehetővé teszi, hogy különböző AI-szolgáltatók modelljei közül válass
 
 ✅ Kiválaszthatod az ár, sebesség és minőség szempontjából megfelelő modellt.
 
-✅ Integrálhatod az AWS Knowledge Bases, Agents és Guardrails szolgáltatásokkal.
 
 Alább a katalógusból pár modell, rövid leírással és a leggyakoribb felhasználási területtel. 
 
