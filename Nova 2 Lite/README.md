@@ -82,6 +82,5 @@ A modell képes volt a magyar nyelvű kérdés után angolul folytatni a beszél
 
 A legnagyobb fejlesztendő terület a borászati szakmai pontosság: egyes szőlőfajták tulajdonságait és a termőhelyi összefüggéseket túl általánosan kezelte, illetve néhány konkrét állítása pontatlan volt.
 
-A Nova 2 Lite ígéretes választás lehet egy borászati AI-asszisztens alapjául. Jól kommunikál magyarul és angolul, képes a korábbi beszélgetésre építeni, és használható fogyasztói ajánlásokat készít.
-
-Ugyanakkor borászati szakértőként még nem tekinthető teljesen megbízhatónak, ezért további szakmai tesztelés szükséges.
+Jól kommunikál magyarul és angolul, képes a korábbi beszélgetésre építeni, és használható fogyasztói ajánlásokat készít.
+Ugyanakkor borászati szakértőként még nem tekinthető teljesen megbízhatónak.
