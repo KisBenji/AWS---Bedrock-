@@ -2,13 +2,7 @@
 
 Ahhoz, hogy egy AI-modellt használni tudjunk, szükségünk van a megfelelő AWS-jogosultságokra és adott esetben a modell aktiválására is.
 
-### 1. Modell kiválasztása
-
-- A bal oldali menüben nyissuk meg a **Model catalog** részt.
-- Válasszuk ki a használni kívánt AI-modellt.
-- Nyissuk meg a modellt a Playground felületen.
-
-### 2. IAM jogosultságok beállítása
+### 1. IAM jogosultságok beállítása
 
 Az alkalmazásnak vagy az EC2 példánynak megfelelő IAM jogosultságokra van szüksége.
 
@@ -16,7 +10,7 @@ Például az alábbi AWS által kezelt policy használható:
 
 `AmazonBedrockFullAccess`
 
-### 3. Különleges modellek hozzáférése
+### 2. Modell hozzáférése
 
 Egyes szolgáltatóknál további feltételek is vannak.
 
@@ -24,24 +18,37 @@ Például bizonyos Anthropic Claude modellek használata előtt ki kell tölteni
 
 Más modellek esetében külön fiókszintű hozzáférésre is szükség lehet. Ezt az IAM jogosultság önmagában nem biztosítja.
 
-### 4. Modell elérhetőségének ellenőrzése
+### 3. Modell elérhetőségének ellenőrzése
 
-AWS CLI segítségével ellenőrizhetjük a modell hozzáférési állapotát:
+Ellenőrizhetjük a modell hozzáférési állapotát:
 
 ```bash
 aws bedrock get-foundation-model-availability \
-  --region "eu-north-1" \
-  --model-id "amazon.nova-micro-v1:0"
+  --region "$REGION" --model-id "$MODEL_ID"
+```
+### 4. Offer Token lekérdezése 
+
+OFFER_TOKEN=$(aws bedrock list-foundation-model-agreement-offers \
+  --region "$REGION" --model-id "$MODEL_ID" \
+  --query 'offers[0].offerToken' --output text)
+echo "$OFFER_TOKEN"
+
+### 5. Szerződés elfogadása
+
+```bash
+aws bedrock create-foundation-model-agreement \
+  --region "$REGION" --model-id "$MODEL_ID" \
+  --offer-token "$OFFER_TOKEN"
 ```
 
-### 6. Modell kipróbálása
+### 4. Modell kipróbálása
 
-Ha a hozzáférés rendben van, az AWS CLI segítségével is meghívhatjuk a modellt:
+Ha a hozzáférés rendben van, a terminál segítségével meghívhatjuk a modellt:
 
 ```bash
 aws bedrock-runtime converse \
-  --region "eu-north-1" \
-  --model-id "eu.amazon.nova-micro-v1:0" \
+  --region "$REGION" \
+  --model-id "$MODEL_ID" \
   --messages '[{"role":"user","content":[{"text":"Üdv! Mondj egy viccet magyarul!"}]}]' \
   --inference-config '{"maxTokens":100}'
 ```
