@@ -44,6 +44,9 @@ aws bedrock get-foundation-model-availability \
 | `NOT_AVAILABLE` | A megállapodás nem érhető el. |
 | `ERROR` | Hiba történt a hozzáférés beállítása során. |
 
+<img width="596" height="234" alt="Képernyőfotó 2026-11-17 - 15 40 45" src="https://github.com/user-attachments/assets/0b05541a-9cda-4fc1-9d73-c1cbbb398f32" />
+
+
 ### 4. Offer Token lekérdezése 
 
 ```bash
