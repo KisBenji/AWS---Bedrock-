@@ -10,6 +10,9 @@ Például az alábbi AWS által kezelt policy használható:
 
 `AmazonBedrockFullAccess`
 
+<img width="1433" height="427" alt="Képernyőfotó 2026-11-17 - 15 30 56" src="https://github.com/user-attachments/assets/8ed00005-e3f6-484c-8f24-dea17299bce4" />
+
+
 Ha ezt nem csináljuk meg a következő hibaüzenetet kapjuk:
 
 <img width="1071" height="437" alt="Képernyőfotó 2026-11-17 - 15 29 48" src="https://github.com/user-attachments/assets/d378589b-84f0-4810-ba6e-b1466e5d4abb" />
