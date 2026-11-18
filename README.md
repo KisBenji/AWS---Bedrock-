@@ -20,3 +20,4 @@ Teljes körűen menedzselt AWS-szolgáltatás, amelyen keresztül különböző 
 
 [Amazon Bedrock Playground](./Amazon%20Playground/README.md)
 [Bedrock Catalog](./Bedrock%20Catalog/README.md)
+[Compare Models](./Compare%20models/README.md)
