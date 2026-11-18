@@ -1,11 +1,8 @@
-## 🔍 AWS Bedrock – Compare Models
-
-
 ## AWS Bedrock – Compare Models
 
-Az **Amazon Bedrock Model Comparison** lehetővé teszi különböző generatív AI-modellek közvetlen összehasonlítását a Bedrock konzolban. Ugyanazt a promptot több modellnek elküldve egymás mellett vizsgálhatjuk a válaszokat, és kiválaszthatjuk az adott feladathoz legmegfelelőbb modellt.
+Az **Amazon Bedrock Model Compare** lehetővé teszi különböző generatív AI-modellek közvetlen összehasonlítását a Bedrock konzolban. 
 
-### 🧪 Jelenleg vizsgált modellek
+### 🧪 Jelenleg csak pár modell összehasonlítás érhető el a console-ban.
 
 | Modell | Gyártó | Fő felhasználási terület |
 |---|---|---|
@@ -48,5 +45,4 @@ A modelladatlapokon többek között az alábbi információk találhatók:
 - [Amazon Bedrock – Official Website](https://aws.amazon.com/bedrock/)
 - [Amazon Bedrock Documentation](https://docs.aws.amazon.com/bedrock/)
 - [Amazon Bedrock Model Catalog](https://docs.aws.amazon.com/bedrock/latest/userguide/model-catalog.html)
-- [Amazon Bedrock Pricing](https://aws.amazon.com/bedrock/pricing/)
-- [Amazon Bedrock Cross-Region Inference](https://docs.aws.amazon.com/bedrock/latest/userguide/cross-region-inference.html)
+
