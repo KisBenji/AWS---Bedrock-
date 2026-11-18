@@ -36,10 +36,12 @@ aws bedrock get-foundation-model-availability \
 
 ### 4. Offer Token lekérdezése 
 
+```bash
 OFFER_TOKEN=$(aws bedrock list-foundation-model-agreement-offers \
   --region "$REGION" --model-id "$MODEL_ID" \
   --query 'offers[0].offerToken' --output text)
 echo "$OFFER_TOKEN"
+```
 
 ### 5. Szerződés elfogadása
 
@@ -49,7 +51,7 @@ aws bedrock create-foundation-model-agreement \
   --offer-token "$OFFER_TOKEN"
 ```
 
-### 4. Modell kipróbálása
+### 6. Modell kipróbálása
 
 Ha a hozzáférés rendben van, a terminál segítségével meghívhatjuk a modellt:
 
