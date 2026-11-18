@@ -8,10 +8,9 @@ Teljes körűen menedzselt AWS-szolgáltatás, amelyen keresztül különböző 
 
 ## Az Amazon Bedrock előnyei
 
-- 🤖 Többféle AI-modell közül választhatunk egy helyen.
-- ☁️ Nem kell saját szervert vagy drága GPU-t vásárolnunk.
+- 🤖 Többféle AI modell közül választhatunk egy helyen.
 - 🔒 Az AWS segítségével biztonságosan kezelhetjük a hozzáféréseket és az adatokat.
-- ⚡ Könnyen összeköthető más AWS-szolgáltatásokkal és alkalmazásokkal.
+- ⚡ Könnyen összeköthető más aws szolgáltatásokkal és alkalmazásokkal.
 - 📈 Ha többen használják az alkalmazást, könnyen bővíthető.
 - 💰 A használat alapján fizetünk, így nem kell folyamatosan saját infrastruktúrát fenntartanunk.
 
