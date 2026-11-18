@@ -18,3 +18,4 @@ Teljes körűen menedzselt AWS-szolgáltatás, amelyen keresztül különböző 
 
 ## Tartalom
 
+[Amazon Bedrock Playground](./Amazon%20Playground/README.md)
