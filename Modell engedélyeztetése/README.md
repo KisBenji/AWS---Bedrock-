@@ -26,6 +26,14 @@ Ellenőrizhetjük a modell hozzáférési állapotát:
 aws bedrock get-foundation-model-availability \
   --region "$REGION" --model-id "$MODEL_ID"
 ```
+
+| Státusz | Leírás |
+|---|---|
+| `AVAILABLE` | A modellhez tartozó megállapodás elérhető. |
+| `PENDING` | A hozzáférés beállítása még folyamatban van. |
+| `NOT_AVAILABLE` | A megállapodás nem érhető el. |
+| `ERROR` | Hiba történt a hozzáférés beállítása során. |
+
 ### 4. Offer Token lekérdezése 
 
 OFFER_TOKEN=$(aws bedrock list-foundation-model-agreement-offers \
