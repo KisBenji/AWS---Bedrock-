@@ -80,7 +80,7 @@ Sikeres hívás esetén a modell visszaküldi a generált választ.
 
 ## Saját tapasztalatok és tesztelés
 
-A teszt során egy EC2 példányról próbáltam elérni az Amazon Bedrock szolgáltatást AWS CLI segítségével.
+A teszt során egy EC2 példányról próbáltam elérni az Amazon Bedrock szolgáltatást terminál segítségével.
 
 A tesztek során:
 
