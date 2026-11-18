@@ -10,6 +10,11 @@ Például az alábbi AWS által kezelt policy használható:
 
 `AmazonBedrockFullAccess`
 
+Ha ezt nem csináljuk meg a következő hibaüzenetet kapjuk:
+
+<img width="1071" height="437" alt="Képernyőfotó 2026-11-17 - 15 29 48" src="https://github.com/user-attachments/assets/d378589b-84f0-4810-ba6e-b1466e5d4abb" />
+
+
 ### 2. Modell hozzáférése
 
 Egyes szolgáltatóknál további feltételek is vannak.
