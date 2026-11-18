@@ -69,3 +69,8 @@ A tesztek során:
 
 Az Amazon Nova Micro modell sikeresen működött az `eu-north-1` régióban, míg más modelleknél további fiókszintű hozzáférési problémák merültek fel.
 
+
+### 🔗 Hivatalos AWS dokumentáció
+
+- [Amazon Bedrock – Request access to models](https://docs.aws.amazon.com/bedrock/latest/userguide/model-access.html)
+- [Amazon Bedrock – IAM permissions](https://docs.aws.amazon.com/bedrock/latest/userguide/security-iam-awsmanpol.html)
