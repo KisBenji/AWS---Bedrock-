@@ -2,6 +2,9 @@
 
 Az **Amazon Bedrock Model Compare** lehetővé teszi különböző generatív AI-modellek közvetlen összehasonlítását a Bedrock konzolban. 
 
+<img width="1079" height="66" alt="Képernyőfotó 2026-11-17 - 15 15 23" src="https://github.com/user-attachments/assets/470edf5e-a0de-46e2-9212-a988dd6730e1" />
+
+
 ### 🧪 Jelenleg csak pár modell összehasonlítás érhető el a console-ban.
 
 | Modell | Gyártó | Fő felhasználási terület |
